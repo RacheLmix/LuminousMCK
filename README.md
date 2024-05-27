@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **a Perfect Guys**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **TAILWIND**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/LuminousMCK)**
 
 ⚡ Fun fact **Genshin Impact Is Lost UID:802346132**
 
@@ -49,11 +49,6 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <img style="width:1000px;" alt="img" src="https://media1.tenor.com/m/0KmaqQiWXiwAAAAC/huo-huo-huohuo.gif" />
-   <video loop style="1000px" autoplay>
-        <source src="https://www.youtube.com/watch?v=PP4dkXiyTKs&list=RDPP4dkXiyTKs&start_radio=1">
-    </video>
-  
-  
   <br/><br/><br/>
 </div>
 
