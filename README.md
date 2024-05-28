@@ -47,7 +47,6 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="img" src="https://tenor.com/vi/view/huo-huo-huohuo-hsr-star-rail-scared-gif-15035718881737334316" />
   <img style="width:1000px;" alt="img" src="https://media1.tenor.com/m/0KmaqQiWXiwAAAAC/huo-huo-huohuo.gif" />
   <br/><br/><br/>
 </div>
