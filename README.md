@@ -47,6 +47,12 @@
 <div align="center">
   <h2>🐍 The Items store tailwind new project with 50% sale 🐍</h2>
   <br>
+    ### Hi! I am Lux Luminous .D Duong
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ntuananhdevs&count_private=true&show_icons=true&line_height=25" />
+
+
+- 🌐 Welcome to ###
+- ✉ Or contact me with [email](mailto:tungxeko912@gmail.com)
   <img style="width:1000px;" alt="img" src="https://media1.tenor.com/m/0KmaqQiWXiwAAAAC/huo-huo-huohuo.gif" />
   <br/><br/><br/>
 </div>
