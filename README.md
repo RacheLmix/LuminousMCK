@@ -48,7 +48,7 @@
   <h2>🐍 The Items store tailwind new project with 50% sale 🐍</h2>
   <br>
     ### Hi! I am Lux Luminous .D Duong
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ntuananhdevs&count_private=true&show_icons=true&line_height=25" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LuminousMCK&count_private=true&show_icons=true&line_height=25" />
 
 
 - 🌐 Welcome to ###
