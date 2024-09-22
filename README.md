@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 The Items store tailwind new project with 50% sale 🐍</h2>
   <br>
-    ### Hi! I am Lux Luminous .D Duong
+    ### Hi! I am Rachel
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LuminousMCK&count_private=true&show_icons=true&line_height=25" />
 
 
